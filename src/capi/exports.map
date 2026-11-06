@@ -1,0 +1,6 @@
+STEPWISE_1.0 {
+    global:
+        stepwise_*;
+    local:
+        *;
+};
